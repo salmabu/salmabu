@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hey, I'm Salma!
 
-<!--
-**salmabu/salmabu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student | 🧠 Learning automation & freelancing 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+- 📨 [Bulk Email Sender](https://github.com/salmabu/email-automation)  
+  A tool that sends personalized emails to multiple contacts from a CSV file using Python and Gmail SMTP.
+
+- 📊 [Excel Sales Report Generator](https://github.com/salmabu/excel-automation)  
+  A GUI-based tool to generate styled Excel & PDF reports from raw sales data.
+
+
+## 🛠️ Skills
+- Python (pandas, openpyxl, fpdf)
+- Excel Automation
+- GUI (PySimpleGUI)
+- Git & GitHub
+
+
+
+## 📫 Contact Me
+You can reach me via GitHub or salmabud814@gmail.com.
+
+---
+
+✨ More projects coming soon...
