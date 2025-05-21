@@ -10,14 +10,15 @@
 
 - 📊 [Excel Sales Report Generator](https://github.com/salmabu/excel-automation)  
   A GUI-based tool to generate styled Excel & PDF reports from raw sales data.
-
+  
+- 📊 [Portfolio Generator](https://github.com/salmabu/portfolio-generator)  
+  Python-based GUI tool that lets you create a clean, customizable HTML portfolio page by simply entering your name, bio, and project details.
 
 ## 🛠️ Skills
 - Python (pandas, openpyxl, fpdf)
 - Excel Automation
 - GUI (PySimpleGUI)
 - Git & GitHub
-
 
 
 ## 📫 Contact Me
