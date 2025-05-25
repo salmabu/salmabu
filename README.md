@@ -22,7 +22,7 @@
 
 
 ## 📫 Contact Me
-You can reach me via GitHub or salmabud814@gmail.com.
+You can reach me via GitHub or saloom8143@gmail.com.
 
 ---
 
